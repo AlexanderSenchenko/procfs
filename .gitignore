@@ -1,0 +1,13 @@
+test_read
+test_ioctl
+
+Module.*
+
+*.ko
+*.o
+.*.cmd
+.tmp_versions
+*.mod.*
+*.order
+
+.vscode
